@@ -1,0 +1,312 @@
+[{
+  "_id": {
+    "$oid": "632f82ddf806f8feba609dff"
+  },
+  "firstName": "miranchik",
+  "lastName": "kazaryanchik",
+  "age": 28,
+  "isFree": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664058077278"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664062365028"
+    }
+  },
+  "books": [
+    {
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "721440000000"
+        }
+      },
+      "_id": {
+        "$oid": "632f939a2d0cf1999cfa4ba5"
+      }
+    },
+    {
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "721440000000"
+        }
+      },
+      "_id": {
+        "$oid": "632f939b2d0cf1999cfa4ba8"
+      }
+    },
+    {
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "721440000000"
+        }
+      },
+      "_id": {
+        "$oid": "632f939c2d0cf1999cfa4bac"
+      }
+    },
+    {
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "721440000000"
+        }
+      },
+      "_id": {
+        "$oid": "632f939c2d0cf1999cfa4bb1"
+      }
+    },
+    {
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "721440000000"
+        }
+      },
+      "_id": {
+        "$oid": "632f939d2d0cf1999cfa4bb7"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632f82e0f806f8feba609e01"
+  },
+  "firstName": "miranchik",
+  "lastName": "kazaryanchik",
+  "age": 28,
+  "isFree": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664058080765"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664058080765"
+    }
+  },
+  "books": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632f8bffc05ce7f919b85dc2"
+  },
+  "firstName": "mir12344@mail.ru",
+  "lastName": "kazaryan",
+  "age": 28,
+  "isFree": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664060415909"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664061338221"
+    }
+  },
+  "books": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632f8c0cc05ce7f919b85dc4"
+  },
+  "firstName": "andreu",
+  "lastName": "kazan",
+  "age": 28,
+  "isFree": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664060428075"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664062386882"
+    }
+  },
+  "books": [
+    {
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "721440000000"
+        }
+      },
+      "_id": {
+        "$oid": "632f93b02d0cf1999cfa4bc9"
+      }
+    },
+    {
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "721440000000"
+        }
+      },
+      "_id": {
+        "$oid": "632f93b12d0cf1999cfa4bcc"
+      }
+    },
+    {
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "721440000000"
+        }
+      },
+      "_id": {
+        "$oid": "632f93b12d0cf1999cfa4bd0"
+      }
+    },
+    {
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "721440000000"
+        }
+      },
+      "_id": {
+        "$oid": "632f93b22d0cf1999cfa4bd5"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632f8c1ac05ce7f919b85dc6"
+  },
+  "firstName": "Ivan",
+  "lastName": "Lobov",
+  "age": 28,
+  "isFree": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664060442115"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664060442115"
+    }
+  },
+  "books": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632f92f92d0cf1999cfa4b80"
+  },
+  "firstName": "miranaaaaa12@mail.ru",
+  "lastName": "12345678",
+  "age": 22,
+  "isFree": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664062201968"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664062341116"
+    }
+  },
+  "books": [
+    {
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "721440000000"
+        }
+      },
+      "_id": {
+        "$oid": "632f93802d0cf1999cfa4b86"
+      }
+    },
+    {
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "721440000000"
+        }
+      },
+      "_id": {
+        "$oid": "632f93832d0cf1999cfa4b89"
+      }
+    },
+    {
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "721440000000"
+        }
+      },
+      "_id": {
+        "$oid": "632f93832d0cf1999cfa4b8d"
+      }
+    },
+    {
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "721440000000"
+        }
+      },
+      "_id": {
+        "$oid": "632f93842d0cf1999cfa4b92"
+      }
+    },
+    {
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "721440000000"
+        }
+      },
+      "_id": {
+        "$oid": "632f93852d0cf1999cfa4b98"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632f930c2d0cf1999cfa4b82"
+  },
+  "firstName": "Александр",
+  "lastName": "Македонский",
+  "age": 27,
+  "isFree": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664062220283"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664062220283"
+    }
+  },
+  "books": [],
+  "__v": 0
+}]
